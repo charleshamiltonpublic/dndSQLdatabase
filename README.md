@@ -1,0 +1,4 @@
+- This is a demo SQL database using Oracle's sqldeveloper
+- The data is Dungeons and Dragons sample data
+- demonstrated here are various join types, views, indexes, loops,
+- cursors, functions, procedures, packages, objects, triggers, and objects 
